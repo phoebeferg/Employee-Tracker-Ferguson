@@ -3,6 +3,10 @@
 ## Video Walkthrough Link
 https://drive.google.com/file/d/15jBk6vDOU9zCjQTEtLcFJ-F61-OmJOsj/view?usp=sharing
 
+## Description
+
+This application has created an employee tracker where you can view departments, roles and employees in a table. From there you can add a new department, role or employee and you can update the employee role. When you view the departments, roles or employees after adding or updating one, you'll see that reflected in the table.
+
 ## Your Task
 
 Developers frequently have to create interfaces that allow non-developers to easily view and interact with information stored in databases. These interfaces are called **content management systems (CMS)**. Your assignment this week is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and PostgreSQL.
